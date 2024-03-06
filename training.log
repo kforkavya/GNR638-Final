@@ -1,0 +1,69 @@
+INFO:root:Device used is : cuda:0
+INFO:root:Folder address detected for tarfile : CUB_200_2011
+INFO:root:Dataset extracted...
+INFO:root:Dataset splitted...
+INFO:root:Starting training the model...
+INFO:root:Test Accuracy: 12.56%
+INFO:root:Epoch 1/60, Training Loss: 5.0618, Training Accuracy: 3.4345875043148086%, Test Loss: 4.3084, Test Accuracy: 12.56%
+INFO:root:Test Accuracy: 30.16%
+INFO:root:Epoch 2/60, Training Loss: 3.8620, Training Accuracy: 17.984121505005177%, Test Loss: 2.9686, Test Accuracy: 30.16%
+INFO:root:Test Accuracy: 43.44%
+INFO:root:Epoch 3/60, Training Loss: 2.9061, Training Accuracy: 33.03417328270625%, Test Loss: 2.2207, Test Accuracy: 43.44%
+INFO:root:Test Accuracy: 50.82%
+INFO:root:Epoch 4/60, Training Loss: 2.3627, Training Accuracy: 42.975491888160164%, Test Loss: 1.8430, Test Accuracy: 50.82%
+INFO:root:Test Accuracy: 56.52%
+INFO:root:Epoch 5/60, Training Loss: 2.0292, Training Accuracy: 50.01725923369003%, Test Loss: 1.5967, Test Accuracy: 56.52%
+INFO:root:Test Accuracy: 60.03%
+INFO:root:Epoch 6/60, Training Loss: 1.7810, Training Accuracy: 55.695547117707974%, Test Loss: 1.4186, Test Accuracy: 60.03%
+INFO:root:Test Accuracy: 63.23%
+INFO:root:Epoch 7/60, Training Loss: 1.6514, Training Accuracy: 58.111839834311354%, Test Loss: 1.3104, Test Accuracy: 63.23%
+INFO:root:Test Accuracy: 63.85%
+INFO:root:Epoch 8/60, Training Loss: 1.5006, Training Accuracy: 61.719019675526404%, Test Loss: 1.2537, Test Accuracy: 63.85%
+INFO:root:Test Accuracy: 65.35%
+INFO:root:Epoch 9/60, Training Loss: 1.3946, Training Accuracy: 64.63583016914049%, Test Loss: 1.1953, Test Accuracy: 65.35%
+INFO:root:Test Accuracy: 66.97%
+INFO:root:Epoch 10/60, Training Loss: 1.3115, Training Accuracy: 66.4998274076631%, Test Loss: 1.1327, Test Accuracy: 66.97%
+INFO:root:Test Accuracy: 67.73%
+INFO:root:Epoch 11/60, Training Loss: 1.2251, Training Accuracy: 68.72626855367622%, Test Loss: 1.1277, Test Accuracy: 67.73%
+INFO:root:Test Accuracy: 68.44%
+INFO:root:Epoch 12/60, Training Loss: 1.1609, Training Accuracy: 69.86537797721782%, Test Loss: 1.0956, Test Accuracy: 68.44%
+INFO:root:Test Accuracy: 69.00%
+INFO:root:Epoch 13/60, Training Loss: 1.1322, Training Accuracy: 71.07352433551951%, Test Loss: 1.0848, Test Accuracy: 69.00%
+INFO:root:Test Accuracy: 68.82%
+INFO:root:Epoch 14/60, Training Loss: 1.0880, Training Accuracy: 71.83293061788056%, Test Loss: 1.0903, Test Accuracy: 68.82%
+INFO:root:Device used is : cuda:0
+INFO:root:Folder address detected for tarfile : CUB_200_2011
+INFO:root:Device used is : cuda:0
+INFO:root:Folder address detected for tarfile : CUB_200_2011
+INFO:root:Dataset extracted...
+INFO:root:Device used is : cuda:0
+INFO:root:Folder address detected for tarfile : CUB_200_2011
+INFO:root:Device used is : cuda:0
+INFO:root:Folder address detected for tarfile : CUB_200_2011
+INFO:root:Dataset extracted...
+INFO:root:Dataset splitted...
+INFO:root:Starting training the model...
+INFO:root:Device used is : cuda:0
+INFO:root:Folder address detected for tarfile : CUB_200_2011
+INFO:root:Dataset extracted...
+INFO:root:Dataset splitted...
+INFO:root:Starting training the model...
+INFO:root:Test Accuracy: 24.84%
+INFO:root:Epoch 1/20, Training Loss: 4.6317, Training Accuracy: 7.766655160510873%, Test Loss: 3.1882, Test Accuracy: 24.84%
+INFO:root:Test Accuracy: 44.03%
+INFO:root:Epoch 2/20, Training Loss: 3.0035, Training Accuracy: 28.098032447359337%, Test Loss: 2.0983, Test Accuracy: 44.03%
+INFO:root:Test Accuracy: 53.45%
+INFO:root:Epoch 3/20, Training Loss: 2.3411, Training Accuracy: 41.73282706247843%, Test Loss: 1.6717, Test Accuracy: 53.45%
+INFO:root:Test Accuracy: 58.73%
+INFO:root:Epoch 4/20, Training Loss: 1.9157, Training Accuracy: 50.811183983431135%, Test Loss: 1.4805, Test Accuracy: 58.73%
+INFO:root:Test Accuracy: 62.50%
+INFO:root:Epoch 5/20, Training Loss: 1.7249, Training Accuracy: 55.005177770107004%, Test Loss: 1.3163, Test Accuracy: 62.50%
+INFO:root:Test Accuracy: 64.91%
+INFO:root:Epoch 6/20, Training Loss: 1.5478, Training Accuracy: 59.54435623058336%, Test Loss: 1.2333, Test Accuracy: 64.91%
+INFO:root:Test Accuracy: 66.88%
+INFO:root:Epoch 7/20, Training Loss: 1.4788, Training Accuracy: 62.115982050396966%, Test Loss: 1.1493, Test Accuracy: 66.88%
+INFO:root:Device used is : cuda:0
+INFO:root:Folder address detected for tarfile : CUB_200_2011
+INFO:root:Dataset extracted...
+INFO:root:Dataset splitted...
+INFO:root:Starting training the model...
