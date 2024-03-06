@@ -1,4 +1,4 @@
-Files Submitted : cubmodel.py   training.log    final_model_checkpoint.pth (On drive link)
+Files Submitted : cubmodel.py   training.log    final_model_checkpoint.pth (On drive link: https://drive.google.com/file/d/1W-IQJNeQ3-aaFnb8JOSr8g5ip-a4PP5X/view?usp=sharing)
 Directions To Training : Run "python3 combined.py --help" for help regarding input and hyperparameters tuning
 Directions to Testing Trained Model : 
     Import the 'CUBModel' class from cubmodel.py file and do "model = CUBModel.load_model('./path/to/saved/model')" to load the model. 
