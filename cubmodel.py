@@ -121,12 +121,14 @@ class CUBModel():
         self.plot_accuracy(train_acc, test_acc)
 
     def plot_accuracy(self, train_acc, test_acc):
+        plt.figure()
         plt.plot(train_acc, label='Training accuracy')
         plt.plot(test_acc, label='Validation accuracy')
         plt.legend(frameon=False)
         plt.savefig("accuracy.png")
 
     def plot_loss(self, train_losses, test_losses):
+        plt.figure()
         plt.plot(train_losses, label='Training loss')
         plt.plot(test_losses, label='Validation loss')
         plt.legend(frameon=False)
